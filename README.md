@@ -35,3 +35,4 @@
   <br/>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jongjunkim&layout=compact)](https://github.com/jongjunkim/github-readme-stats)
+![JongjunKim's GitHub stats](https://github-readme-stats.vercel.app/api?username=jongjunkim&show_icons=true&theme=radical)
